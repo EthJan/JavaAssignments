@@ -1,0 +1,60 @@
+Dimensionality: 5
+Initial Point: 
+2.0 2.0 2.0 2.0 2.0 
+Iterations: 10
+Tolerance: 0.10000
+Step Size: 0.00100
+
+Optimization Process:
+Iteration 1:
+Objective Function Value: 1604.00000
+x-values: 2.00000 2.00000 2.00000 2.00000 2.00000 
+
+Iteration 2:
+Objective Function Value: 521.14559
+x-values: 0.39799 0.39799 0.39799 0.39799 2.39998 
+Current Tolerance:  3228.87224
+
+Iteration 3:
+Objective Function Value: 235.47785
+x-values: 0.43732 0.43732 0.43732 0.75604 1.95167 
+Current Tolerance:  577.78788
+
+Iteration 4:
+Objective Function Value: 103.56765
+x-values: 0.48149 0.48149 0.53725 1.17388 1.67565 
+Current Tolerance:  514.45593
+
+Iteration 5:
+Objective Function Value: 88.74793
+x-values: 0.53061 0.54134 0.72841 1.31329 1.61610 
+Current Tolerance:  255.97015
+
+Iteration 6:
+Objective Function Value: 51.28591
+x-values: 0.58669 0.63653 0.95699 1.25560 1.63782 
+Current Tolerance:  261.26926
+
+Iteration 7:
+Objective Function Value: 36.73193
+x-values: 0.65610 0.77775 1.08713 1.28587 1.62556 
+Current Tolerance:  206.80917
+
+Iteration 8:
+Objective Function Value: 21.12110
+x-values: 0.74792 0.92822 1.13217 1.27095 1.63114 
+Current Tolerance:  182.63820
+
+Iteration 9:
+Objective Function Value: 9.08252
+x-values: 0.85877 1.02882 1.12698 1.27845 1.62796 
+Current Tolerance:  150.00721
+
+Iteration 10:
+Objective Function Value: 1.99650
+x-values: 0.95911 1.05695 1.13048 1.27458 1.62925 
+Current Tolerance:  104.36632
+
+Maximum iterations reached without satisfying the tolerance.
+
+Optimization process completed

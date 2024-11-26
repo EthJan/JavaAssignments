@@ -1,0 +1,25 @@
+Objective Function: Quadratic
+t: 
+0.512 0.512 0.512 0.512 
+Iterations: 3
+Tolerance: 0.10000
+Step Size: 0.10000
+
+Optimization Process:
+Iteration 1:
+Objective Function Value: 1.04857
+x-values: 0.51200 0.51200 0.51200 0.51200 
+
+Iteration 2:
+Objective Function Value: 0.67108
+x-values: 0.40960 0.40960 0.40960 0.40960 
+Current Tolerance:  2.04800
+
+Iteration 3:
+Objective Function Value: 0.42949
+x-values: 0.32768 0.32768 0.32768 0.32768 
+Current Tolerance:  1.63840
+
+Maximum iterations reached without satisfying the tolerance.
+
+Optimization process completed
